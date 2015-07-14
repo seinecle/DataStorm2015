@@ -126,9 +126,9 @@ Since 2012 or so, General Electric partners with Fathom, the agency created by B
 <p align="center"><img src="img/formatted/ge.jpg"/></p>  
 (live url: http://visualization.geblogs.com/visualization/powering/)  
 
-And in 2015, you know dataviz has gotten to a pinacle when you see a panel on dataviz with Ben Fry and Chelsea Clinton:
+And in 2015, you know dataviz has fully stabilized when you see a panel on dataviz with Chelsea Clinton:
 <p align="center"><img src="img/formatted/chelsea.jpg"/></p>  
-(live url: https://www.youtube.com/watch?v=YFrmQDCpgxs)  
+(live url: https://www.youtube.com/watch?v=YFrmQDCpgxs - the panel is with Ben Fry).  
 
 
 So until 2012 and 2013 I'd say that we were in the golden age of #dataviz in terms of discoveries and charting new paths: excited comments on new productions by the NYT, debates around the goals of #dataviz: is it a way to tell stories? To open new worlds? To educate? New connections made with new comers, new agencies, people meeting for the first time in conferences after exchanging on Twitter for years, new positions, big clients...
