@@ -43,7 +43,7 @@ What was remarkable was that "dataviz" happened at the interface of different co
 
 From there on, #dataviz was a launched with:
 - a couple of emblematic projects: OECD Better Life Index: not infovis, not infographics, just dataviz
-![OECD Better Life Index](/img/oecd better life index.jpg)  
+<p align="center"><img src="img/formatted/oecd better life index.jpg"/></p>  
 
 - the "Ghost Counties" visualization by Jan Willem Tulp, 2011: http://www.janwillemtulp.com/eyeo/
 - U.S. Gun Deaths by Periscopic, http://guns.periscopic.com/?year=2013
