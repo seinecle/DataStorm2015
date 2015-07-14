@@ -42,29 +42,44 @@ What was remarkable was that "dataviz" happened at the interface of different co
 3. Twitter based communication around the "dataviz" hashtag, where people exchanges praises and criticisms, shared their latest realization and the chat about past and upcoming conferences.
 
 From there on, #dataviz was a launched with:
-- a couple of emblematic projects: OECD Better Life Index: not infovis, not infographics, just dataviz
+- a couple of emblematic projects: OECD Better Life Index: not infovis, not infographics, just dataviz:  
 <p align="center"><img src="img/formatted/oecd better life index.jpg"/></p>  
 
-- the "Ghost Counties" visualization by Jan Willem Tulp, 2011: http://www.janwillemtulp.com/eyeo/
-- U.S. Gun Deaths by Periscopic, http://guns.periscopic.com/?year=2013
+- the "Ghost Counties" visualization by Jan Willem Tulp, 2011: http://www.janwillemtulp.com/eyeo/:  
+<p align="center"><img src="img/formatted/ghost counties screenshot.jpg"/></p>  
+
+- U.S. Gun Deaths by Periscopic, http://guns.periscopic.com/?year=2013  
+<p align="center"><img src="img/formatted/gun deaths.jpg"/></p>  
+
 
 The emergence of data visualisation as a set of practice and professionals was coinciding with the surge in the new importance of data as a driver of value for business. "Data visualization" became positioned as one powerful lever to extract value from datasets: it possesses both the rigor needed to report objectively on key data features, that you'd find otherwise in information visualisation, and the power to be engaging with the domain specialists or the managers in charge of finding insights in the data.
 
-Two aspects where data visualization epitomizes its value: maps and networks.
-Visualization of geolocalized data and of network data has of course a long history before the birth of data visualization: many software integrated mapping functions from Geographical Information Systems, and network analysis packages also add visualization add-ons.
+Two aspects where data visualization epitomizes its value: maps and networks.  
+Visualization of geolocalized data and of network data has of course a long history before the birth of data visualization: many software integrated mapping functions from Geographical Information Systems, and network analysis packages also add visualization add-ons.  
 
-What data visualization brought was staggering visualizations making engagement with data just stronger, more powerful. Stamen, an agency with strong ties in the data visualization community, does this kind of maps:
+What data visualization brought was staggering visualizations making engagement with data just stronger, more powerful. Stamen, an agency with strong ties in the data visualization community, does this kind of maps:  
+<p align="center"><img src="img/formatted/stamen.jpg"/></p>  
 
-http://prettymaps.stamen.com/201008/#10.00/38.7250/-9.1500 Not your usual GIS mapping.
+http://prettymaps.stamen.com/201008/#10.00/38.7250/-9.1500  
+Not your usual GIS mapping.  
 
-In terms of networks, a pre-dataviz typical network would look like: insert UCINET pic
+In terms of networks, a pre-dataviz typical network would look like:  
+<p align="center"><img src="img/formatted/ucinet.jpg"/></p>  
+
 
 Dataviz brought interaction, web-based interactions - which means you explore the viz, not just stare at it, javascript as a common language, and a strong sense of esthetics.
-http://bl.ocks.org/mbostock/1062288
+http://bl.ocks.org/mbostock/1062288  
 
 
-Industrialization came in rapidly, with Tableau becoming the leader for general purpose viz, dashboards reinvented themselves in dataviz-style with Bime, Qlik, Palantir... 
-Dataviz became integrated into the business discourse on big data: the Harvard Business Reviews features in 2012 a blog section on data visualization where Jer Thorp contributed, Nielsen branded their annual report with a dataviz created by Jan Willem Tulp, GE did ????
+<p align="center"><img src="img/formatted/logos bi.png"/></p>  
+Industrialization came in rapidly, with Tableau becoming the leader for general purpose viz, dashboards reinvented themselves in dataviz-style with Bime, Qlik, Palantir to name a few.  
+
+Dataviz became integrated into the business discourse on big data: the Harvard Business Reviews features in 2012 a blog section on data visualization where Jer Thorp contributed to set perspectives straight on data,  
+<p align="center"><img src="img/formatted/jer thorp.jpg"/></p>  
+
+
+
+, Nielsen branded their annual report with a dataviz created by Jan Willem Tulp, GE did ????
 
 So until 2013, 2014 I'd say that we were in the golden age of #dataviz: excited comments on new productions by the NYT, debates around the goals of #dataviz: is it a way to tell stories? To open new worlds? New connections made with new comers, new agencies, people meeting for the first time in conferences after exchanging on Twitter for years, new positions, big clients...
 
