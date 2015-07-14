@@ -13,11 +13,11 @@ infoviz, Business intellegience, infographics, and GIS.
 
 The issue is, this emphasis on hypothesis testing can be detrimental to the advancing on the bigger picture: creating visualizations that are engaging and trigger adoption by the viewer. To be a bit tough on infovis, I'd say you need a PhD to get it: the interfaces they design are not engaging, not user friendly, and the information displayed hardly enhances human cognition for laymen like me.  
 
-<p align="center"><img src="img/formatted/example infographics.png"/></p>  
+<p align="center"><img src="img/formatted/example infographics.jpg"/></p>  
 2. You could say that infographics is a bit the contrary of infovis: communication agencies doing pretty much what they want to catch the attention of their readers, at the expense of truthfulness and reliability of the data they invoke. Of course there are excellent infographics and Alberto Cairo, a professor and journalist by trade, reminds us in his book "The Functional Art" that carefully executed infographics are an excellent way to convey complex information in a limited amount of space. But my understanding is that it is not in the basic contract of infographics to have a one to one relation with data, there is a license to *illustrate* the data. The reader must trust the source of the infographics much more than in information visualisation: depending on whether this is a communication agency or an established newspaper (and even then!), infographics can be misleading.  
 
 3. Business intelligence is still another crowd:  
-<p align="center"><img src="img/formatted/example bi.png"/></p>  
+<p align="center"><img src="img/formatted/example bi.jpg"/></p>  
 The mission is basically to do "excel-level" visualizations in terms of reporting and monitoring business data. Nothing fancy usually there: bar charts, pie charts (often in 3D, which is wrong), line charts and progress bars assembled in dashboards, sold by companies more versed in the business side of things than graphics and innovation in design.  
 
 4. And finally, GIS.  
@@ -98,7 +98,7 @@ This type of visualization means you can explore the viz, not just stare at it, 
 A short note on Gephi here: Gephi is a desktop software developed in Java. This contributes to explain why it takes years to release the next version of Gephi, as compared to development cycles that are measured in months for javascript dataviz frameworks. I hope Gephi will overcome this weakness.  
 
 Anyhow, industrialization in dataviz came in rapidly, with Tableau becoming the leader for general purpose viz, dashboards reinvented themselves in dataviz-style with Bime, Qlik, Palantir to name a few.  
-<p align="center"><img src="img/formatted/logos bi.png"/></p>  
+<p align="center"><img src="img/formatted/logos bi.jpg"/></p>  
 
 Dataviz became integrated into the business discourse on big data: the Harvard Business Reviews features in 2012 a blog section on data visualization where Jer Thorp contributed to set perspectives straight on data,  
 <p align="center"><img src="img/formatted/jer thorp.jpg"/></p>  
