@@ -1,5 +1,5 @@
 #Where is data visualization going?
-by [Clement Levallois](http://www.clementlevallois.net), DataStorm 2<sup>nd</sup> edition, Lisbon, July 15, 2015.  
+by [Clement Levallois](http://www.clementlevallois.net), [DataStorm 2<sup>nd</sup> edition](http://www.ds3.inesc-id.pt/), Lisbon, July 15, 2015.  
 
 The nice thing about fields in computational science is that they evolve so quickly. Every 6 months or so, there is a new kid on the block in machine learning, mobile app development or text mining.  
 This makes it hard to stay at the forefront of these fields, and sometimes we might even loose perspective as to the meaning and goals of what was the field we formed an interest in, just a couple of years back.  
@@ -15,46 +15,32 @@ Before dataviz, there was a couple of established fields of practice dealing wit
 infoviz, infographics, Business intelligence, and GIS.  
 
 ###1. Infoviz
-Infoviz is "information visualisation" and is the name of an academic field concerned with "the study of (interactive) visual representations of abstract data to reinforce human cognition." (Wikipedia entry). The strength of this field is that it is a test bench for many assumptions you'd have on how visualizations can be effective, in terms of "reinforcing human cognition". How do colors work? What about different scales? Are users performing at some given tasks when reading graph structures representated as matrix, versus networks? Should longitudinal data be presented as time slices or animated movies for best understanding? Research in information visualization is concerned with providing solid answers to these important questions.  
+Infoviz is "information visualisation" and is the name of an academic field concerned with "the study of (interactive) visual representations of abstract data to reinforce human cognition." ([Wikipedia entry](https://en.wikipedia.org/wiki/Information_visualization)). The strength of this field is that it is a test bench for many assumptions you'd have on how visualizations can be effective, in terms of "reinforcing human cognition". How do colors work? What about different scales? What is the performance of users at solving given problems when reading graph structures representated as matrix, versus networks? Should longitudinal data be presented as time slices or animated movies for best understanding? Research in information visualization is concerned with providing solid answers to these important questions.  
 <p align="center"><img src="img/formatted/example infovis.jpg"/></p>  
 
-The issue is, this emphasis on hypothesis testing can be detrimental to the advancing on the bigger picture: creating visualizations that are engaging and trigger adoption by the viewer. To be a bit tough on infovis, I'd say you need a PhD to get it: the interfaces they design are not engaging, not user friendly, and the information displayed hardly enhances human cognition for laymen like me.  
+The issue is, this emphasis on hypothesis testing can be detrimental to the advancing on the bigger picture: creating visualizations that are engaging and trigger adoption by the viewer. As illustrated by the figure above, to be a bit tough on infovis, I'd say you need a PhD to get it: the interfaces they design are not engaging, not user friendly, and the information displayed hardly enhances human cognition for laymen like me.  
 
-<p align="center"><img src="img/formatted/example infographics.jpg"/></p>  
+
 ###2. Infographics  
-You could say that infographics is a bit the contrary of infovis: communication agencies doing pretty much what they want to catch the attention of their readers, at the expense of truthfulness and reliability of the data they invoke. Of course there are excellent infographics and Alberto Cairo, a professor and journalist by trade, reminds us in his book "The Functional Art" that carefully executed infographics are an excellent way to convey complex information in a limited amount of space. But my understanding is that it is not in the basic contract of infographics to have a one to one relation with data, there is a license to *illustrate* the data. The reader must trust the source of the infographics much more than in information visualisation: depending on whether this is a communication agency or an established newspaper (and even then!), infographics can be misleading.  
+You could say that infographics is a bit the contrary of infovis: communication agencies doing pretty much what they want to catch the attention of their readers, at the expense of truthfulness and reliability of the data they invoke. The example below shows how colorful and catchy an infographics can be, and yet be a nightmare to read.  
+<p align="center"><img src="img/formatted/example infographics.jpg"/></p>  
+Of course there are excellent infographics and Alberto Cairo, a professor and journalist by trade, reminds us in his book "The Functional Art" that carefully executed infographics are an excellent way to convey complex information in a limited amount of space. But my understanding is that it is not in the basic contract of infographics to have a one to one relation with data, there is a license to *illustrate* the data. The reader must trust the source of the infographics much more than in information visualisation: depending on whether this is a communication agency or an established newspaper (and even then!), infographics can be misleading.  
 
 ###3. Business intelligence is still another crowd:  
 <p align="center"><img src="img/formatted/example bi.jpg"/></p>  
-The mission is basically to do "excel-level" visualizations in terms of reporting and monitoring business data. Nothing fancy usually there: bar charts, pie charts (often in 3D, which is wrong), line charts and progress bars assembled in dashboards, sold by companies more versed in the business side of things than graphics and innovation in design.  
+The mission is basically to do "excel-level" visualizations in terms of reporting and monitoring business data. Nothing fancy usually there: bar charts, pie charts (often in 3D as in the illustration above, which is wrong), line charts and progress bars assembled in dashboards, sold by companies more versed in the business side of things than graphics and innovation in design.  
 
 ###4. And finally, GIS.  
 <p align="center"><img src="img/formatted/gis.jpg"/></p>  
-Geographical Information Systems can have a claim for the longest tradition of visual data, this is after all their business to draw maps which is geolocalized data. It could be that this long tradition was also a curse: because they developped these widely used desktop software in the 1990s and the 2000s, they were entrenched in technologies that could not be easily adapted when web technologies became the de facto standard to draw maps and to project overlays of data on them.  
+Geographical Information Systems may have a claim for the longest tradition in visualizing data. Tthis is after all their business to draw maps, which is geolocalized data. It could be that this long tradition was also a curse: because they developped these widely used desktop software in the 1990s and the 2000s, they were entrenched in technologies that could not be easily adapted when web technologies opened up richer, more engaging ways to draw maps and to project overlays of data on them.  
 
-So the scene is the following: scientists in their corner being the guardians of the temple of "proper visualisations", but they have a hard time finding an audience for these graphics. Infographics in the opposite corner, who have access to crowds of readers everyday in the pages of newspapers and marketing brochures, but with a sense that they don't really show the data - they editorialze it a lot, for good or bad. And at the two other corners, we have business intelligence which is a bit scorned upon because of the simplicity of their graphics which does not do justice to the richness of the data, but envied because they have access to relevant, pricey, impactful data. And GIS which works with data in a way which is universally understood and judged relevant (maps), though the degree of innovation of this field remained quite low.  
+So the scene is the following: scientists in their corner being the guardians of the temple of "proper visualisations", but they have a hard time finding an audience for these graphics. Infographics in the opposite corner, who have access to crowds of readers everyday in the pages of newspapers and marketing brochures, but with a sense that they don't really show the data - they editorialze it a lot, for good or bad. And at the two other corners, we have business intelligence which is a bit scorned upon because of the simplicity of their graphics which does not do justice to the richness of the data, but envied because they have access to relevant, pricey, impactful data. And GIS which works with data in a way which is universally understood and judged relevant (maps), but with a degree of innovation of this field which remains quite low.  
 
 ## The emergence of dataviz
 Something happened around 2008 and 2009, so around 6 years ago, which changed this statu quo:  
 - a number of javascript charting and drawing libraries were released: RaphaelJS (08/08/08), the Javascript Infovis Toolkit (2009), Protovis (2009), ProcessingJS (2010), D3 (2011). Together with the take off of mobiles phones without the Flash and Java plugins, the decreasing popularity of the Java plugin even on desktop browsers, you see in 3 years a large technological shift: unification of visualization frameworks on the web using javascript. The web becomes increasingly a platform in itself (more popular than releasing desktop software), with the release of Google Chrome in 2008 - Javascript and CSS become much less broken than when Internet Explorer was dominant. For what impact?  
 
-It shuffled the cards: with Java came a very rigid way to conceive interfaces: windows, menus and even the fonts had a Java look and feel in the browser. In Flash, you had a strong history of interaction and feel for design, but you could use Flash without coding, so that Flash designs could remain pretty much disconnected from the datasets they represented. All that became thrown into the melting pot of Javascript where everybody had to unlearn their framework and learn on a virgin land.  
-
-And what happened was a solidification of a community around what I see as 2 defining traits:
-
-###1. Data is for the viewer to see and play with  
-There is the assumption that the visualization should not provide you with flat and unverifiable conclusions: it should show the data in a transparent form. Of course there is a narrative and an editorialization of how the datais presented, **but** it always remains possible for the viewer to challenge this editorial view because the data is here for anyone to explore and interact with.
-This represents a fundamental break with infographics, which can hide the underlying data by design, or show it with strong bias by carelessness and still be "OK" by pre-dataviz standards. It is also a break with infovis, were data is indeed there but you need a book length user guide to actually get to it.
-
-###2. Custom made, creative act  
-Because we are in the browser there is no click and point solutions for the visualization of the data. This departs strongly from GIS where "custom" maps could be done by selecting options in a menu, and also a big change from dashboards in business intelligence where you could drag and drop charts to build a visualization. The sense of esthetics and the particularity of the datasets makes of each dataviz a craftwork.  
-One of the best examples is this one by Hint.fm: 
-<p align="center"><img src="img/formatted/windmap.jpg"/></p>  
-(live url: http://hint.fm/wind/)  
-(live url for a worldwide version: http://earth.nullschool.net/)  
-
-
-What was remarkable was that "dataviz" happened at the interface of different communities, it was not the natural offspring of one of the 4 I mentioned. This community is remarkable in several aspects:
+It shuffled the cards: with Java came a very rigid way to conceive interfaces: windows, menus and even the fonts had a Java look and feel in the browser. In Flash, you had a strong history of interaction and feel for design, but you could use Flash without coding, so that Flash designs could remain pretty much disconnected from the datasets they represented. All that became thrown into the melting pot of Javascript where everybody had to unlearn their framework and learn on a virgin land. "dataviz" emerged outside of these 4 fields, it was not the natural offspring of one of the 4 I mentioned. It caused many newcomers to try their hands at these new tools, free from the habits and of the 4 fields we have seen. These newcomers who created dataviz had a different way to look at things.  This community is remarkable in several aspects:
     
 ###1. Individuals possessing a mix of skills:
 For the preparation of the data (Python or R skills), skills in javascript and other scripting language for visual design (ActionScript, Processing), a knowledge of the rules of design and a feel for esthetics, and creativity.
@@ -70,12 +56,12 @@ In this community, people evaluate each other's works, shared their latest reali
 (live url: http://neoformix.com/2012/DataVisFieldSubGroups.html)    
 
 ###3. A tight knit group across the US and Europe.
-I identify Santiago Ortiz, Jerome Cukier, Jer Thorp, Gregor Aisch, Jan Willem Tulp, Lynn Cherny, Nathan Yau from Flowing Data, Kim Rees from Pseriscopic, Moritz Stefaner, with a couple of established academics like Enrico Bertini and Jon Schwabish, and in relation with teams at the Guardian and the NYT, and Andy Kirk at VisualisingData as an evangelist and instructor.  
+I identify Santiago Ortiz, Jerome Cukier, Jer Thorp, Gregor Aisch, Jan Willem Tulp, Lynn Cherny, Nathan Yau from Flowing Data, Kim Rees from Periscopic, Moritz Stefaner, with a couple of established academics like Enrico Bertini and Jon Schwabish, and in relation with teams at the Guardian and the NYT, and Andy Kirk at VisualisingData as an evangelist and instructor. They were particularly active in spreading news about dataviz and sharing their critical insights which contributed shaping boundaries for the field. This is a personal and of course biaised observation, a systematic investigation reveals a different picture:      
 <p align="center"><img src="img/formatted/dataviz group.jpg"/></p>  
 (live url: http://neoformix.com/2012/DataVisField1000_Group2.pdf)    
 
 
-From there on, #dataviz can be described by a couple of emblematic projects:
+###4. A couple of emblematic projects
 - OECD Better Life Index by Moritz Stefaner et al: not infovis, not infographics, just dataviz: simplicity, interaction, access to the data.   
 <p align="center"><img src="img/formatted/oecd better life index.jpg"/></p>  
 (live url: http://www.oecdbetterlifeindex.org/)    
@@ -90,7 +76,7 @@ From there on, #dataviz can be described by a couple of emblematic projects:
 
 The emergence of data visualisation as a set of practice and professionals was coinciding with the surge in the new importance of data as a driver of value for business. "Data visualization" became positioned as one powerful lever to extract value from datasets: it possesses both the rigor needed to report objectively on key data features, that you'd find otherwise in information visualisation, and the power to be engaging with the domain specialists or the managers in charge of finding insights in the data.
 
-###Two aspects where data visualization epitomizes its value: maps and networks.  
+###5. Two aspects where data visualization epitomizes its value: maps and networks.  
 Visualization of geolocalized data and of network data has of course a long history before the birth of data visualization: many software integrated mapping functions from Geographical Information Systems, and network analysis packages also add visualization add-ons.  
 
 What data visualization brought was staggering visualizations making engagement with data just stronger, more powerful. Stamen, an agency with strong ties in the data visualization community, does this kind of maps:  
@@ -108,6 +94,19 @@ Dataviz brought interaction, web-based interactions:
 This type of visualization means you can explore the viz, not just stare at it, you can share it - just paste the url. It can be developed and modified by a large pool of developers because it is written in javascript, which is  the common language of web development. There is a strong sense of esthetics and natural feeling using it. It will encourage curiosity, exploration, and just increase 10 folds the time spent on it.  
 
 A short note on Gephi here: Gephi is a desktop software developed in Java. This contributes to explain why it takes years to release the next version of Gephi, as compared to development cycles that are measured in months for javascript dataviz frameworks. I hope Gephi will overcome this weakness.  
+
+###6. If we were looking for defining traits of dataviz:
+
+####a) Data is for the viewer to see and play with  
+There is the assumption that the visualization should not provide you with flat and unverifiable conclusions: it should show the data in a transparent, verifiable form. Of course there is a narrative and an editorialization of how the datais presented, **but** it always remains possible for the viewer to challenge this editorial view because the data is here for anyone to explore and interact with.
+This represents a fundamental break with infographics, which can hide the underlying data by design, or show it with strong bias by carelessness and still be "OK" by pre-dataviz standards. It is also a break with infovis, were data is indeed there but you might not be enticed to engage with it.  
+
+####b) Custom made, creative act  
+Because we are in the browser there is no click and point solutions for the visualization of the data. This departs strongly from GIS where "custom" maps could be done by selecting options in a menu, and also a big change from dashboards in business intelligence where you could drag and drop charts to build a visualization. The sense of esthetics and the particularity of the datasets makes of each dataviz a craftwork.  
+One of the best examples is this one by Hint.fm: 
+<p align="center"><img src="img/formatted/windmap.jpg"/></p>  
+(live url: http://hint.fm/wind/)  
+(live url for a worldwide version: http://earth.nullschool.net/)  
 
 ##2014-2015: The stabilization of #dataviz
 Anyhow, industrialization in dataviz came in rapidly, with Tableau becoming the leader for general purpose viz, dashboards reinvented themselves in dataviz-style with Bime, Qlik, Palantir to name a few.  
