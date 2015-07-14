@@ -30,7 +30,7 @@ Of course there are excellent infographics and Alberto Cairo, a professor and jo
 <p align="center"><img src="img/formatted/example bi.jpg"/></p>  
 The mission is basically to do "excel-level" visualizations in terms of reporting and monitoring business data. Nothing fancy usually there: bar charts, pie charts (often in 3D as in the illustration above, which is wrong), line charts and progress bars assembled in dashboards, sold by companies more versed in the business side of things than graphics and innovation in design.  
 
-###4. And finally, GIS.  
+###4. And GIS.  
 <p align="center"><img src="img/formatted/gis.jpg"/></p>  
 Geographical Information Systems may have a claim for the longest tradition in visualizing data. Tthis is after all their business to draw maps, which is geolocalized data. It could be that this long tradition was also a curse: because they developped these widely used desktop software in the 1990s and the 2000s, they were entrenched in technologies that could not be easily adapted when web technologies opened up richer, more engaging ways to draw maps and to project overlays of data on them.  
 
@@ -38,16 +38,18 @@ So the scene is the following: scientists in their corner being the guardians of
 
 ## The emergence of dataviz
 Something happened around 2008 and 2009, so around 6 years ago, which changed this statu quo:  
-- a number of javascript charting and drawing libraries were released: RaphaelJS (08/08/08), the Javascript Infovis Toolkit (2009), Protovis (2009), ProcessingJS (2010), D3 (2011). Together with the take off of mobiles phones without the Flash and Java plugins, the decreasing popularity of the Java plugin even on desktop browsers, you see in 3 years a large technological shift: unification of visualization frameworks on the web using javascript. The web becomes increasingly a platform in itself (more popular than releasing desktop software), with the release of Google Chrome in 2008 - Javascript and CSS become much less broken than when Internet Explorer was dominant. For what impact?  
+A number of javascript charting and drawing libraries were released: RaphaelJS (08/08/08), the Javascript Infovis Toolkit (2009), Protovis (2009), ProcessingJS (2010), D3 (2011). Together with the take off of mobiles phones without the Flash and Java plugins, the decreasing popularity of the Java plugin even on desktop browsers, you see in 3 years a large technological shift: unification of visualization frameworks on the web using javascript. The web becomes increasingly a platform in itself (more popular than releasing desktop software), with the release of Google Chrome in 2008 - Javascript and CSS become much less broken than when Internet Explorer was dominant. For what impact?  
 
-It shuffled the cards: with Java came a very rigid way to conceive interfaces: windows, menus and even the fonts had a Java look and feel in the browser. In Flash, you had a strong history of interaction and feel for design, but you could use Flash without coding, so that Flash designs could remain pretty much disconnected from the datasets they represented. All that became thrown into the melting pot of Javascript where everybody had to unlearn their framework and learn on a virgin land. "dataviz" emerged outside of these 4 fields, it was not the natural offspring of one of the 4 I mentioned. It caused many newcomers to try their hands at these new tools, free from the habits and of the 4 fields we have seen. These newcomers who created dataviz had a different way to look at things.  This community is remarkable in several aspects:
+It shuffled the cards: with Java came a very rigid way to conceive interfaces: windows, menus and even the fonts had a Java look and feel in the browser. In Flash, you had a strong history of interaction and feel for design, but you could use Flash without coding, so that Flash designs could remain pretty much disconnected from the datasets they represented. All that became thrown into the melting pot of Javascript where everybody had to unlearn their framework and learn on a virgin land.  
+
+Data visualization was not the natural offspring of one of the 4 fields I mentioned, it emerged outside of them. It caused many newcomers to try their hands at these new tools, free from the habits and of the 4 fields we have seen. These newcomers who created dataviz had a different way to look at things, a different tooling, and different ways to function as a group.  This community is remarkable in several aspects:
     
 ###1. Individuals possessing a mix of skills:
 For the preparation of the data (Python or R skills), skills in javascript and other scripting language for visual design (ActionScript, Processing), a knowledge of the rules of design and a feel for esthetics, and creativity.
 That is what you need to create this:  
 <p align="center"><img src="img/formatted/mta.jpg"/></p>  
 (live url: http://www.mta.me)    
-
+(by Alexander Chen, a Creative Director at Google Creative Lab)  
 
 ###2. Twitter based communication around the "dataviz" hashtag
 In this community, people evaluate each other's works, shared their latest realization chat about past and upcoming conferences but more importantly exhchange info about new frameworks and resources.  
@@ -56,7 +58,7 @@ In this community, people evaluate each other's works, shared their latest reali
 (live url: http://neoformix.com/2012/DataVisFieldSubGroups.html)    
 
 ###3. A tight knit group across the US and Europe.
-I identify Santiago Ortiz, Jerome Cukier, Jer Thorp, Gregor Aisch, Jan Willem Tulp, Lynn Cherny, Nathan Yau from Flowing Data, Kim Rees from Periscopic, Moritz Stefaner, with a couple of established academics like Enrico Bertini and Jon Schwabish, and in relation with teams at the Guardian and the NYT, and Andy Kirk at VisualisingData as an evangelist and instructor. They were particularly active in spreading news about dataviz and sharing their critical insights which contributed shaping boundaries for the field. This is a personal and of course biaised observation, a systematic investigation reveals a different picture:      
+I identify Santiago Ortiz, Jerome Cukier, Jer Thorp, Gregor Aisch, Jan Willem Tulp, Lynn Cherny, Nathan Yau from Flowing Data, Kim Rees from Periscopic, Moritz Stefaner, with a couple of established academics like Enrico Bertini and Jon Schwabish, and in relation with teams at the Guardian and the NYT, and Andy Kirk at VisualisingData as an evangelist and instructor. They were particularly active in spreading news about dataviz and sharing their critical insights which contributed shaping boundaries for the field. This is a personal and of course biaised observation, a systematic investigation reveals a different picture (see above, and below, which is a zoom on the group where I think we would find most people self identifying as dataviz specialists):      
 <p align="center"><img src="img/formatted/dataviz group.jpg"/></p>  
 (live url: http://neoformix.com/2012/DataVisField1000_Group2.pdf)    
 
@@ -129,14 +131,14 @@ And in 2015, you know dataviz has gotten to a pinacle when you see a panel on da
 (live url: https://www.youtube.com/watch?v=YFrmQDCpgxs)  
 
 
-So until 2012 and 2013 I'd say that we were in the golden age of #dataviz in terms of discovereries and charting new paths: excited comments on new productions by the NYT, debates around the goals of #dataviz: is it a way to tell stories? To open new worlds? To educate? New connections made with new comers, new agencies, people meeting for the first time in conferences after exchanging on Twitter for years, new positions, big clients...
+So until 2012 and 2013 I'd say that we were in the golden age of #dataviz in terms of discoveries and charting new paths: excited comments on new productions by the NYT, debates around the goals of #dataviz: is it a way to tell stories? To open new worlds? To educate? New connections made with new comers, new agencies, people meeting for the first time in conferences after exchanging on Twitter for years, new positions, big clients...
 
 And in 2015, things seem to have stabilized and normalized. The energy has changed. The conversation on Twitter has slowed down a lot. The sense of being pionneers has eroded, because time has passed and because we have indeed tried and explored many low hanging fruits. Many individuals are now engaged in more industrial, long term projects. So that's not bad news: dataviz is now mainstream and well established, people are less obliged to enter free competitions and work on long personal projects at weekends and nights to get their name out, that's good. But I miss a bit the excitement of the previous years when you had one framework or one big personal project published per month, and when you had all these big shots chatting on Twitter about the upcoming developments for dataviz.
 
 ## 2015 onwards: where is dataviz going?
 So... where is dataviz going? As I said, you have this first exciting phase that passed, and we are now in a stage where processes for the creation of dataviz are more industrialized, commodified, stabilized. This means that innovation will find other places to erupt. Why? Because the landscape of technologies keeps changing, and creative minds will seize the opportunity to play and explore these opportunities in places where no "client" is yet waiting for them.  
 
-To illustrate possible paths, I like to give the example of the career of Seb Lee Deslile, who defined himself as a creative coder and now as as a digital artist. I follow his work on Twitter since about 2009. He is not at the heart of the "dataviz" network and does not define himself in regards to this label, but you'd find him on Jeff Clark's map of dataviz in 2012 nonetheless.  
+To illustrate possible paths, I like to give the example of the career of [Seb Lee-Delisle](http://www.seb.ly), who defined himself as a creative coder and now as a digital artist. I follow his work on Twitter since about 2009. He is not at the heart of the "dataviz" network and does not define himself in regards to this label, but you'd find him on Jeff Clark's map of dataviz in 2012 nonetheless (see map above).  
 
 - so, he was using Adobe Flash as one of his main technologies until 2009, contributing to PaperVision3D, a framework to build 3D games and animations in the Flash Player.  
 - He plays a bit with Adobe Flex in 2009,  
@@ -147,13 +149,13 @@ To illustrate possible paths, I like to give the example of the career of Seb Le
 
 This path, and similar paths followed by others, suggest that:
 
-1. The computer screen and even the screen of the mobile phone is becoming less hegemonic as the medium where data can be visualized. Objects, sculptures, buildings, furniture... this is the next frontier to be explored. Not just mapping data on a flat surface, but maybe even actual construction of data objects.     
+1. The computer screen and even the screen of the mobile phone is becoming less hegemonic as the medium where data can be visualized. Objects, sculptures, buildings, furniture... this is the next frontier to be explored. Not just mapping data on a flat surface, but maybe even actual construction of data objects (see [1](http://www.nand.io/visualisation/emoto-installation) for a nice example by Moritz Stefaner).   
 
 2. Interaction is richer than we are used to. When we leave the "screen" environment (desktop of mobile), interactions with the user become more diverse. Not just the hand, but the body. Not one individual facing an object, but possibly a crowd, possibly moving, possibly gesturing. 
 
-3. And "data" is in the process of getting an even larger meaning. I mean, I was happy to move from a tabular notion of data to "unstructured text": like wow, that opens wild possibilities! But when you move away from the screen and start connecting to a variety of ojbects, sensors, and with a variety of people, data takes still other forms: real time measurements from the external physical environment, from the internal (body) environment, from local or distant social interactions as they unfold, ... 
+3. And "data" is in the process of getting an even larger meaning. I mean, I was happy to move from a tabular notion of data to "unstructured text": like wow, that opens wild possibilities! But when you move away from the screen and start connecting to a variety of objects and sensors, and with a variety of people, data takes still other forms: real time measurements from the external physical environment, from the internal (body) environment, from local or distant social interactions as they unfold, all while staying connected to the APIS we are already faimilar with... the mix can be bring impactful results.  
 
-If visualizing data from the Twitter API was the cliché of #dataviz in 2010 - 2015, the next cliché could be the instantaneous 3D printing of data generated from the connected objects and bodies in a home or a workspace .  
+So, if visualizing data from the Twitter API was the cliché of #dataviz in 2010 - 2015, the next cliché could be the instantaneous 3D printing of data generated from the connected objects and bodies in a home or a workspace.  
 
 This is just a vision for dataviz, I'd be happy to discuss it with you now!  
 
