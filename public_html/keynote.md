@@ -7,7 +7,7 @@ This makes it hard to stay at the forefront of these fields, and sometimes we mi
 So I take the opportunity of this talk to reflect on data visualization, which is such a young field. I'd like to explore how data visualization has evolved, why there was a need for it to emerge, where it stands today, and I will try to imagine where it will evolve in the coming years.  
 Some warnings. I am more an observer than a participat in this field. My view is the one of somebody who came to data visualization around 2009 through network visualizations with Gephi, getting my information mostly from the discussions, links and podcasts shared by data visualizers which I follow and interact with on Twitter. These are personal views and I'd be happy to see them (productively) challenged.  
 
-So I feel that in the last 6 years, dataviz has evolved in significant ways: it emerged and cristalized into a distinct topic, lived happily through a golden age, and we are today somewhere else. Let's start with the beginning.  
+So I feel that in the last 6 years, dataviz has evolved in significant ways: it emerged and crystalized into a distinct topic, lived happily through a golden age, and we are today somewhere else. Let's start with the beginning.  
 
 
 ##Before dataviz
