@@ -23,7 +23,7 @@ The strength of this field is that it is a test bench for many assumptions you'd
 <p align="center"><img src="img/formatted/example infovis.jpg"/></p>  
 
 The issue is, this emphasis on hypothesis testing can be detrimental to the advancing on the bigger picture: creating visualizations that are widely adopted and used in a world so full of information (or call it noise) that attention by individuals is becoming the scarcest of resources.  
-As illustrated by the figure above, and I were to be a bit tough on infoviz, I'd say you need a PhD to get it: the interfaces they design are not engaging enough, not using the platforms that viewers are now using, and the information displayed hardly enhances human cognition for laymen like me.  
+As illustrated by the figure above, and if I were to be a bit tough on infoviz, I'd say you need a PhD to get it: the interfaces they design are not engaging enough, not using the platforms that viewers are now using, and the information displayed hardly enhances human cognition for laymen like me.  
 
 
 ###2. Infographics  
@@ -37,7 +37,7 @@ The mission is basically to do "excel-level" visualizations in terms of reportin
 
 ###4. And GIS.  
 <p align="center"><img src="img/formatted/gis.jpg"/></p>  
-Geographical Information Systems may have a claim for the longest tradition in visualizing data. Tthis is after all their business to draw maps, which is geolocalized data. It could be that this long tradition was also a curse: because they developped these widely desktop software that were widely used in the 1990s, the 2000s and still today, they were entrenched in technologies that could not be easily adapted when web technologies opened up richer, more engaging ways to draw maps and to project overlays of data on them.  
+Geographical Information Systems may have a claim for the longest tradition in visualizing data. This is after all their business to draw maps, which is geolocalized data. It could be that this long tradition was also a curse: because they developped these widely desktop software that were widely used in the 1990s, the 2000s and still today, they were entrenched in technologies that could not be easily adapted when web technologies opened up richer, more engaging ways to draw maps and to project overlays of data on them.  
 
 So the scene is the following: scientists in their corner being the guardians of the temple of "proper visualisations", but they have a hard time finding an audience for these graphics. Infographics in the opposite corner, who have access to crowds of readers everyday in the pages of newspapers and marketing brochures, but with a sense that they don't really show the data - they editorialize it a lot, for good or bad. And at the two other corners, we have business intelligence which is a bit scorned upon because of the simplicity of their graphics which does not do justice to the richness of the data, but envied because they have access to relevant, pricey, impactful data. And GIS which works with data in a way which is universally understood and judged relevant (maps), but with a degree of innovation of this field which remains quite low.  
 
@@ -105,7 +105,7 @@ A short note on Gephi here: Gephi is a desktop software developed in Java. This 
 ###6. If we were looking for 2 defining traits of dataviz:
 
 ####a) Data is for the viewer to see and play with  
-There is the assumption that the visualization should not provide you with flat and unverifiable conclusions: it should show the data in a transparent, verifiable form. Of course there is a narrative and an editorialization of how the datais presented, **but** it always remains possible for the viewer to challenge this editorial view because the data is here for anyone to explore and interact with.
+There is the assumption that the visualization should not provide you with flat and unverifiable conclusions: it should show the data in a transparent, verifiable form. Of course there is a narrative and an editorialization of how the data is presented, **but** it always remains possible for the viewer to challenge this editorial view because the data is here for anyone to explore and interact with.
 This represents a fundamental break with infographics, which can hide the underlying data by design, or show it with strong bias by carelessness and still be "OK" by pre-dataviz standards. It is also a break with infovis, were data is indeed there but you might not be enticed to engage with it.  
 
 ####b) Custom made, creative act  
@@ -156,7 +156,7 @@ This path, and similar paths followed by others, suggest that:
 
 1. The computer screen and even the screen of the mobile phone is becoming less hegemonic as the medium where data can be visualized. Objects, sculptures, buildings, furniture... this is the next frontier to be explored. Not just mapping data on a flat surface, but maybe even actual construction of data objects (see [1](http://www.nand.io/visualisation/emoto-installation) for a nice example by Moritz Stefaner).   
 
-2. Interaction is richer than we are used to. When we leave the "screen" environment (desktop of mobile), interactions with the user become more diverse. Not just the hand and the click of the mouse, but the whole body. Not one individual facing an object, but possibly a crowd, possibly moving, possibly gesturing. 
+2. Interaction is richer than we are used to. When we leave the "screen" environment (desktop or mobile), interactions with the user become more diverse. Not just the hand and the click of the mouse, but the whole body. Not one individual facing an object, but possibly a crowd, possibly moving, possibly gesturing. 
 
 3. And "data" is in the process of getting an even larger meaning. I mean, I was happy to move from a tabular notion of data to playin with "unstructured text": like wow, that opens wild possibilities! But when you move away from the screen and start connecting to a variety of objects and sensors, and with a variety of people, data takes still other forms: real time measurements from the external physical environment, from the internal (body) environment, from local or distant social interactions as they unfold, all while staying connected to the APIS we are already faimilar with... the mix can be bring impactful results.  
 
