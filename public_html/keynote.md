@@ -1,11 +1,14 @@
 #Where is data visualization going?
 by [Clement Levallois](http://www.clementlevallois.net), [DataStorm 2<sup>nd</sup> edition](http://www.ds3.inesc-id.pt/), Lisbon, July 15, 2015.  
 
+<p align="center"><img src="img/formatted/cover.jpg"/></p>  
+
+
 The nice thing about fields in computational science is that they evolve so quickly. Every 6 months or so, there is a new kid on the block in machine learning, mobile app development or text mining.  
 This makes it hard to stay at the forefront of these fields, and sometimes we might even loose perspective as to the meaning and goals of what was the field we formed an interest in, just a couple of years back.  
 
 So I take the opportunity of this talk to reflect on data visualization, which is such a young field. I'd like to explore how data visualization has evolved, why there was a need for it to emerge, where it stands today, and I will try to imagine where it will evolve in the coming years.  
-Some warnings. I am more an observer than a participat in this field. My view is the one of somebody who came to data visualization around 2009 through network visualizations with Gephi, getting my information mostly from the discussions, links and podcasts shared by data visualizers which I follow and interact with on Twitter. These are personal views and I'd be happy to see them (productively) challenged.  
+Some warnings. I am more an observer than a participant in this field. My view is the one of somebody who came to data visualization around 2009 through network visualizations with Gephi, getting my information mostly from the discussions, links and podcasts shared by data visualizers which I follow and interact with on Twitter. These are personal views and I'd be happy to see them (productively) challenged.  
 
 So I feel that in the last 6 years, dataviz has evolved in significant ways: it emerged and crystalized into a distinct topic, lived happily through a golden age, and we are today somewhere else. Let's start with the beginning.  
 
@@ -63,7 +66,7 @@ In this community, people evaluate each other's works, shared their latest reali
 (live url: http://neoformix.com/2012/DataVisFieldSubGroups.html)    
 
 ###3. A tight knit group across the US and Europe.
-I identify (this is an non exclusive list of course) Santiago Ortiz, Jerome Cukier, Jer Thorp, Gregor Aisch, Jan Willem Tulp, Lynn Cherny, Nathan Yau from Flowing Data, Kim Rees from Periscopic, Moritz Stefaner, with a couple of established academics like Enrico Bertini, Jon Schwabish, Alberto Cairo, and in relation with teams at the Guardian and the NYT, and Andy Kirk at VisualisingData as an evangelist and instructor. They were particularly active in spreading news about dataviz and sharing their critical insights which contributed shaping boundaries for the field. This is a personal and of course biaised observation, a systematic investigation reveals a different picture (see above, and below, which is a zoom on the group where I think we would find most people self identifying as dataviz specialists):      
+I identify (this is a non exclusive list of course) [Santiago Ortiz](http://moebio.com/), [Jerome Cukier](http://www.jeromecukier.net/), [Jer Thorp](http://blog.blprnt.com/), [Gregor Aisch](http://driven-by-data.net/), [Jan Willem Tulp](http://tulpinteractive.com/), [Lynn Cherny](http://ghostweather.com/), [Nathan Yau](http://flowingdata.com/about-nathan/) from Flowing Data, [Kim Rees](https://about.me/krees) from Periscopic, [Moritz Stefaner](http://truth-and-beauty.net/), with a couple of established academics like [Enrico Bertini](http://fellinlovewithdata.com/), [Scott Murray](http://alignedleft.com/), [Jon Schwabish](http://policyviz.com/), [Alberto Cairo](http://www.thefunctionalart.com/), and in relation with teams at the Guardian and the NYT, and [Andy Kirk](http://www.visualisingdata.com/index.php/about/) at VisualisingData as an evangelist and instructor. They were particularly active in spreading news about dataviz and sharing their critical insights which contributed shaping boundaries for the field. This is a personal and of course biaised observation, a systematic investigation reveals a different picture (see above, and below, which is a zoom on the group where I think we would find most people self identifying as dataviz specialists):      
 <p align="center"><img src="img/formatted/dataviz group.jpg"/></p>  
 (live url: http://neoformix.com/2012/DataVisField1000_Group2.pdf)    
 
