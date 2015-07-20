@@ -1,13 +1,16 @@
 #Where is data visualization going?
 by [Clement Levallois](http://www.clementlevallois.net), [DataStorm 2<sup>nd</sup> edition](http://www.ds3.inesc-id.pt/), Lisbon, July 15, 2015.  
 
+<p align="center"><img src="img/formatted/cover.jpg"/></p>  
+
+
 The nice thing about fields in computational science is that they evolve so quickly. Every 6 months or so, there is a new kid on the block in machine learning, mobile app development or text mining.  
 This makes it hard to stay at the forefront of these fields, and sometimes we might even loose perspective as to the meaning and goals of what was the field we formed an interest in, just a couple of years back.  
 
 So I take the opportunity of this talk to reflect on data visualization, which is such a young field. I'd like to explore how data visualization has evolved, why there was a need for it to emerge, where it stands today, and I will try to imagine where it will evolve in the coming years.  
-Some warnings. I am more an observer than a participat in this field. My view is the one of somebody who came to data visualization around 2009 through network visualizations with Gephi, getting my information mostly from the discussions, links and podcasts shared by data visualizers which I follow and interact with on Twitter. These are personal views and I'd be happy to see them (productively) challenged.  
+Some warnings. I am more an observer than a participant in this field. My view is the one of somebody who came to data visualization around 2009 through network visualizations with Gephi, getting my information mostly from the discussions, links and podcasts shared by data visualizers which I follow and interact with on Twitter. These are personal views and I'd be happy to see them (productively) challenged.  
 
-So I feel that in the last 6 years, dataviz has evolved in significant ways: it emerged and cristalized into a distinct topic, lived happily through a golden age, and we are today somewhere else. Let's start with the beginning.  
+So I feel that in the last 6 years, dataviz has evolved in significant ways: it emerged and crystalized into a distinct topic, lived happily through a golden age, and we are today somewhere else. Let's start with the beginning.  
 
 
 ##Before dataviz
@@ -23,7 +26,7 @@ The strength of this field is that it is a test bench for many assumptions you'd
 <p align="center"><img src="img/formatted/example infovis.jpg"/></p>  
 
 The issue is, this emphasis on hypothesis testing can be detrimental to the advancing on the bigger picture: creating visualizations that are widely adopted and used in a world so full of information (or call it noise) that attention by individuals is becoming the scarcest of resources.  
-As illustrated by the figure above, and I were to be a bit tough on infoviz, I'd say you need a PhD to get it: the interfaces they design are not engaging enough, not using the platforms that viewers are now using, and the information displayed hardly enhances human cognition for laymen like me.  
+As illustrated by the figure above, and if I were to be a bit tough on infoviz, I'd say you need a PhD to get it: the interfaces they design are not engaging enough, not using the platforms that viewers are now using, and the information displayed hardly enhances human cognition for laymen like me.  
 
 
 ###2. Infographics  
@@ -37,7 +40,7 @@ The mission is basically to do "excel-level" visualizations in terms of reportin
 
 ###4. And GIS.  
 <p align="center"><img src="img/formatted/gis.jpg"/></p>  
-Geographical Information Systems may have a claim for the longest tradition in visualizing data. Tthis is after all their business to draw maps, which is geolocalized data. It could be that this long tradition was also a curse: because they developped these widely desktop software that were widely used in the 1990s, the 2000s and still today, they were entrenched in technologies that could not be easily adapted when web technologies opened up richer, more engaging ways to draw maps and to project overlays of data on them.  
+Geographical Information Systems may have a claim for the longest tradition in visualizing data. This is after all their business to draw maps, which is geolocalized data. It could be that this long tradition was also a curse: because they developped these widely desktop software that were widely used in the 1990s, the 2000s and still today, they were entrenched in technologies that could not be easily adapted when web technologies opened up richer, more engaging ways to draw maps and to project overlays of data on them.  
 
 So the scene is the following: scientists in their corner being the guardians of the temple of "proper visualisations", but they have a hard time finding an audience for these graphics. Infographics in the opposite corner, who have access to crowds of readers everyday in the pages of newspapers and marketing brochures, but with a sense that they don't really show the data - they editorialize it a lot, for good or bad. And at the two other corners, we have business intelligence which is a bit scorned upon because of the simplicity of their graphics which does not do justice to the richness of the data, but envied because they have access to relevant, pricey, impactful data. And GIS which works with data in a way which is universally understood and judged relevant (maps), but with a degree of innovation of this field which remains quite low.  
 
@@ -63,7 +66,7 @@ In this community, people evaluate each other's works, shared their latest reali
 (live url: http://neoformix.com/2012/DataVisFieldSubGroups.html)    
 
 ###3. A tight knit group across the US and Europe.
-I identify (this is an non exclusive list of course) Santiago Ortiz, Jerome Cukier, Jer Thorp, Gregor Aisch, Jan Willem Tulp, Lynn Cherny, Nathan Yau from Flowing Data, Kim Rees from Periscopic, Moritz Stefaner, with a couple of established academics like Enrico Bertini, Jon Schwabish, Alberto Cairo, and in relation with teams at the Guardian and the NYT, and Andy Kirk at VisualisingData as an evangelist and instructor. They were particularly active in spreading news about dataviz and sharing their critical insights which contributed shaping boundaries for the field. This is a personal and of course biaised observation, a systematic investigation reveals a different picture (see above, and below, which is a zoom on the group where I think we would find most people self identifying as dataviz specialists):      
+I identify (this is a non exclusive list of course) [Santiago Ortiz](http://moebio.com/), [Jerome Cukier](http://www.jeromecukier.net/), [Jer Thorp](http://blog.blprnt.com/), [Gregor Aisch](http://driven-by-data.net/), [Jan Willem Tulp](http://tulpinteractive.com/), [Lynn Cherny](http://ghostweather.com/), [Nathan Yau](http://flowingdata.com/about-nathan/) from Flowing Data, [Kim Rees](https://about.me/krees) from Periscopic, [Moritz Stefaner](http://truth-and-beauty.net/), with a couple of established academics like [Enrico Bertini](http://fellinlovewithdata.com/), [Scott Murray](http://alignedleft.com/), [Jon Schwabish](http://policyviz.com/), [Alberto Cairo](http://www.thefunctionalart.com/), and in relation with teams at the Guardian and the NYT, and [Andy Kirk](http://www.visualisingdata.com/index.php/about/) at VisualisingData as an evangelist and instructor. They were particularly active in spreading news about dataviz and sharing their critical insights which contributed shaping boundaries for the field. This is a personal and of course biaised observation, a systematic investigation reveals a different picture (see above, and below, which is a zoom on the group where I think we would find most people self identifying as dataviz specialists):      
 <p align="center"><img src="img/formatted/dataviz group.jpg"/></p>  
 (live url: http://neoformix.com/2012/DataVisField1000_Group2.pdf)    
 
@@ -105,7 +108,7 @@ A short note on Gephi here: Gephi is a desktop software developed in Java. This 
 ###6. If we were looking for 2 defining traits of dataviz:
 
 ####a) Data is for the viewer to see and play with  
-There is the assumption that the visualization should not provide you with flat and unverifiable conclusions: it should show the data in a transparent, verifiable form. Of course there is a narrative and an editorialization of how the datais presented, **but** it always remains possible for the viewer to challenge this editorial view because the data is here for anyone to explore and interact with.
+There is the assumption that the visualization should not provide you with flat and unverifiable conclusions: it should show the data in a transparent, verifiable form. Of course there is a narrative and an editorialization of how the data is presented, **but** it always remains possible for the viewer to challenge this editorial view because the data is here for anyone to explore and interact with.
 This represents a fundamental break with infographics, which can hide the underlying data by design, or show it with strong bias by carelessness and still be "OK" by pre-dataviz standards. It is also a break with infovis, were data is indeed there but you might not be enticed to engage with it.  
 
 ####b) Custom made, creative act  
@@ -156,7 +159,7 @@ This path, and similar paths followed by others, suggest that:
 
 1. The computer screen and even the screen of the mobile phone is becoming less hegemonic as the medium where data can be visualized. Objects, sculptures, buildings, furniture... this is the next frontier to be explored. Not just mapping data on a flat surface, but maybe even actual construction of data objects (see [1](http://www.nand.io/visualisation/emoto-installation) for a nice example by Moritz Stefaner).   
 
-2. Interaction is richer than we are used to. When we leave the "screen" environment (desktop of mobile), interactions with the user become more diverse. Not just the hand and the click of the mouse, but the whole body. Not one individual facing an object, but possibly a crowd, possibly moving, possibly gesturing. 
+2. Interaction is richer than we are used to. When we leave the "screen" environment (desktop or mobile), interactions with the user become more diverse. Not just the hand and the click of the mouse, but the whole body. Not one individual facing an object, but possibly a crowd, possibly moving, possibly gesturing. 
 
 3. And "data" is in the process of getting an even larger meaning. I mean, I was happy to move from a tabular notion of data to playin with "unstructured text": like wow, that opens wild possibilities! But when you move away from the screen and start connecting to a variety of objects and sensors, and with a variety of people, data takes still other forms: real time measurements from the external physical environment, from the internal (body) environment, from local or distant social interactions as they unfold, all while staying connected to the APIS we are already faimilar with... the mix can be bring impactful results.  
 
