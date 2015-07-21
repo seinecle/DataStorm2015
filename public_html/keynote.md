@@ -62,7 +62,7 @@ That is what you need to create this:
 ###2. Twitter based communication around the "dataviz" hashtag
 In this community, people evaluate each other's works, shared their latest realization chat about past and upcoming conferences but more importantly exhchange info about new frameworks and resources.  
 
-<p align="center"><img src="img/formatted/clark.jpg"/></p>  
+<p align="center"><img src="img/formatted/dataviz communities.jpg"/></p>  
 (live url: http://neoformix.com/2012/DataVisFieldSubGroups.html)    
 
 ###3. A tight knit group across the US and Europe.
