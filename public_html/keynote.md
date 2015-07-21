@@ -78,7 +78,7 @@ I identify (this is a non exclusive list of course) [Santiago Ortiz](http://moeb
 
 - the "Ghost Counties" visualization by Jan Willem Tulp, 2011: shows creativity and engagement.  
 <p align="center"><img src="img/formatted/ghost counties screenshot.jpg"/></p>  
-(live url, needs Internet Explorer and Flash: http://www.janwillemtulp.com/eyeo/)    
+(live url, needs Internet Explorer and the Java plugin: http://www.janwillemtulp.com/eyeo/)    
 
 - U.S. Gun Deaths by Periscopic, http://guns.periscopic.com/?year=2013  
 <p align="center"><img src="img/formatted/gun deaths.jpg"/></p>  
